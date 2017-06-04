@@ -1,8 +1,5 @@
-# Dependency directories
-node_modules/
-
 # log
-log/
+log
 
 # files
-files/
+files
