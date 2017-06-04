@@ -8,7 +8,12 @@
 - path: 处理文件路径
 - crypto: 提供加密和解密功能，基本上是对OpenSSL的包装
 
+
+
 # demos
 - demo01: hello node
 - demo02: http模块
 - demo03: url&querystring
+- demo04: child_process
+- demo05：process
+- demo06: fs模块
