@@ -17,4 +17,4 @@
 - demo04: child_process
 - demo05：process
 - demo06: fs模块
-- demo07: 连接mysql数据库
+- demo07: 连接数据库
